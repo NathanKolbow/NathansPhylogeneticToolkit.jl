@@ -1,0 +1,13 @@
+name = "NathansPhylogeneticToolkit"
+uuid = "088fd236-5a70-43ba-afe6-2a5447b16abc"
+authors = ["Nathan Kolbow"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
